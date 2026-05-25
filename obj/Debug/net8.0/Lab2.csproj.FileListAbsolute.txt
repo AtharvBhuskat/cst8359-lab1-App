@@ -1,0 +1,16 @@
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\.net\lab1\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+D:\.net\lab1\Lab2\Lab2\bin\Debug\net8.0\Words.txt
